@@ -1,0 +1,12 @@
+img{
+	width:100%;
+	position: relative;
+	z-index: 1;
+}
+.container .row .col-sm-12.center .col-sm-8.center_left{
+	
+	position: absolute;
+	
+	z-index: 2;
+	
+}
